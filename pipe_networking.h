@@ -12,6 +12,7 @@
 #include <sys/wait.h>
 #include <ctype.h>
 #include <time.h>
+#include <sys/socket.h>
 
 #ifndef NETWORKING_H
 #define NETWORKING_H
